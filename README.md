@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Zied MELLITI
+# Hi there 👋 I'm <img src="https://miro.medium.com/v2/resize:fit:344/1*FpH4eJ4JvlqOOsCpGa6SbA.png" alt="Zied MELLITI" width="200px" />
 
-💻 Senior Software Engineer | Passionate about clean architecture, scalable systems, and impactful code.
+💻 Senior Software Engineering Consultant | Passionate about clean architecture, scalable systems, and impactful code.
 
 - 🔭 Currently working on exciting backend and full-stack projects
 - 🌱 Always learning new technologies and architectural patterns
@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack & Tools
 
 Here are some of the fantastic tools and technologies I love to work with — and this is just a glimpse of what’s under the hood! 🚀  
-From backend to frontend, databases to devops, these help power the magic behind the scenes. ✨
+From robust backend engines to slick frontends and beyond, these help power the magic behind the scenes. 🪄
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -38,7 +38,7 @@ From backend to frontend, databases to devops, these help power the magic behind
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
-> ⚠️ *Note:* This is just a snapshot — there are many more tools in the toolbox! 🧰
+> ⚠️ This is a snapshot of my toolbox — always evolving!
 
 ---
 
@@ -51,5 +51,62 @@ From backend to frontend, databases to devops, these help power the magic behind
 
 ---
 
-Thanks for visiting my profile! Feel free to connect 👇  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zied_Melliti-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zied-melliti/)
+## 🤝 How to Collaborate
+
+- Open-source contributions? Always happy to review PRs and pair on projects.  
+- Mentorship? Reach out via LinkedIn or email to chat about tech, architecture, or career growth.  
+- Freelance opportunities? I’m open to freelance consulting and project collaborations — let’s talk!  
+- Ideas for tools or platforms? Let’s build something awesome together!  
+
+---
+
+## ✍️ Articles & Writing
+
+Writing is how I share the lessons I’ve learned — turning experience into easy-to-grasp insights, practical tips, and thoughtful reflections.  
+Whether you’re aiming to build better software or grow a stronger mindset, I’m here to offer content that informs, inspires, and lifts you up.
+
+<table style="width:100%; border-collapse: collapse; border: none;" cellpadding="10" cellspacing="0">
+<tr>
+  
+<td valign="top" style="width:50%; padding-right: 20px; border: none;">
+
+### 📘 On Hashnode  
+I dive deep into software engineering, clean architecture, and developer best practices — content made for tech professionals who want to craft high-quality, scalable systems.
+
+<a href="https://zied-melliti.hashnode.dev" style="display: flex; justify-content: flex-end; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge" />
+</a>
+
+</td>
+
+<td valign="top" style="width:50%; padding-left: 20px; border: none;">
+
+### 🖋 On Medium  
+I explore mindset, leadership, and the human side of tech — sharing lessons that empower individuals to grow with purpose and navigate their journeys with clarity and courage.
+
+<a href="https://medium.com/@zied-melliti" style="display: flex; justify-content: flex-end; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
+</a>
+
+</td>
+</tr>
+</table>
+
+> 🌟 I believe in writing that *builds bridges* — between tech and people, architecture and mindset, code and community.  
+> If it makes someone grow, reflect, or code a little better — then it’s worth sharing.
+
+
+---
+
+## 📫 Get in Touch
+
+Thanks for stopping by! Feel free to connect 👇
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zied-melliti/) — Let’s connect and build something amazing together!  
+[![Email](https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:zied.melliti@engineer.com) — Got ideas or questions? Drop me a line!  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Zied_Melliti) — Quick tech tips and inspiration — follow along!  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@zied-melliti) — Read stories on mindset, leadership & growth.  
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://zied-melliti.hashnode.dev) — Explore my deep dives on software engineering.  
+
+---
+
