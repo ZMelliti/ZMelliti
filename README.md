@@ -51,6 +51,26 @@ From robust backend engines to slick frontends and beyond, these help power the 
 
 ---
 
+## ⚓ GeekHarbor — My Open Source Org
+
+[![GeekHarbor](https://img.shields.io/badge/GeekHarbor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeekHarbor)
+
+**Anchored in code ⚓ — Powered by innovation 💡**
+
+**[GeekHarbor](https://github.com/GeekHarbor)** is the open-source organization where I build, launch, and maintain impactful developer tools, reusable libraries, and real-world project templates.
+
+### 🚢 What You'll Find There:
+- 🧩 **Modular Java & Spring Boot / Javascript libraries** with clean architecture
+- 🌐 **Full-stack templates** using Angular, Vue, React, Supabase, and more
+- 🛠️ **DevSecOps tools**, code analyzers, and productivity boosters
+- 📚 Projects designed for **learning, reuse, and collaboration**
+
+> Whether you're a seasoned engineer or an aspiring dev, **GeekHarbor** is your destination for clean, extensible, and production-grade open-source projects.
+
+🔗 **[Explore GeekHarbor on GitHub »](https://github.com/GeekHarbor)**
+
+---
+
 ## 🤝 How to Collaborate
 
 - Open-source contributions? Always happy to review PRs and pair on projects.  
